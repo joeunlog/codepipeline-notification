@@ -27,3 +27,4 @@ terraform apply -var-file=env/dev.tfvars
 - AWS IAM Role Policy Attachment
 - AWS Cloudformation stack
 - AWS Codestartnotifications Notification Rule
+- AWS Cloudwatch EventBridge
